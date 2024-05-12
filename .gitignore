@@ -1,0 +1,43 @@
+# Dependency directories
+node_modules/
+
+# Environment variables file
+.env
+
+# Editor directories and files
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+.DS_Store
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Build directories
+/build/
+/dist/
+/out/
+
+# Coverage directory
+/coverage/
+
+# Runtime data
+.pnp.*
+pnp.js
+
+# Yarn 2
+.yarn/*
+!.yarn/patches
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+.pnp.*
+
+# Yarn Integrity file
+.yarn-integrity
